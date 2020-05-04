@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment Six</string>
+
+    <string name="buttonStart">Start</string>
+    <string name="buttonShare">Share</string>
+
+    <string name="fillTitle">Title text</string>
+    <string name="fillDetails">Detail text</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- default colours-->
+    <color name="colorPrimary">#D40100</color>
+    <color name="colorPrimaryDark">#BE0403</color>
+    <color name="colorAccent">#FAA61A</color>
+    <color name="colorAccentDark">#F59B05</color>
+
+    <!--colours by name -->
+    <color name="white">#FFFFFF</color>
+
+    <!--colours by use -->
+    <color name="imageTint">#BF808080</color>
+
+</resources>

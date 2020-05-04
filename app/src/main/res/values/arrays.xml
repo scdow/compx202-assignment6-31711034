@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="listArray">
+        <item>Bachelor of Computer Graphic Design</item>
+        <item>Bachelor of Media and Creative Technologies</item>
+        <item>Bachelor of Business Analysis</item>
+        <item>English Foundation Program</item>
+    </array>
+
+
+    <array name="Bachelor_of_Computer_Graphic_Design">
+        <item>bcgd</item>
+        <item>Bachelor of Computer Graphic Design</item>
+        <item>The Bachelor of Computer Graphic Design (BCGD) is a cross-disciplinary degree that aims at creating designers at the intersection of design and code.
+            User experience (UX) and user interface (UI) design for current and emerging technologies will be taught, along with the development of digital skills of coding, motion design, and information design.
+            This will prepare students to work in fast-growing areas such as editorial design for web and mobile, publication websites, mobile apps, data visualisation and the design and development of digital products.
+        </item>
+    </array>
+    <array name="Bachelor_of_Media_and_Creative_Technologies">
+        <item>bmct</item>
+        <item>Bachelor of Media and Creative Technologies</item>
+        <item>The Bachelor of Media and Creative Technologies (BMCT) is a cross-disciplinary degree that explores the impact of creative technologies in arts and media in the 21st century.
+            With a particular focus on online audio and video, portable devices, networking and an on-demand culture, the degree examines how we have transformed today\'s creative environment, and how this promises more innovative ways to create and share content in future.</item>
+    </array>
+    <array name="Bachelor_of_Business_Analysis">
+        <item>bba</item>
+        <item>Bachelor of Business Analysis</item>
+        <item>The Bachelor of Business Analysis (BBA) prepares students with the flexible skills needed to work in today’s small to large enterprises, using their expertise to help them thrive, grow and succeed in the 21st century.
+            This degree is focused on developing business innovators and entrepreneurs of the future.
+            The Bachelor of Business Analysis will teach students to play a crucial part in helping organisations run their operations in a responsible way, adapt to the needs of changing markets, and drive innovation processes to develop cutting-edge products or services.</item>
+    </array>
+    <array name="English_Foundation_Program">
+        <item>efp</item>
+        <item>English Foundation Program</item>
+        <item>During their first year at NZUWI, students are provided specific training for English language development to strengthen their foundation and develop Academic English in the areas related to their subject area studies.</item>
+    </array>
+
+</resources>
