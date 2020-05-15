@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
 //        Toast.makeText(this, "onclickStart work", Toast.LENGTH_SHORT).show();
 
-        // Create new intent for DetailActivity
+        // Create new intent for ListActivity
         Intent intent = new Intent(this, ListActivity.class);
 
         // Start the activity with the intent
