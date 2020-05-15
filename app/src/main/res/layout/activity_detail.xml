@@ -45,7 +45,8 @@
         android:layout_margin="20dp"
         android:textColor="@color/white"
         android:background="@drawable/button_style"
-        android:text="@string/buttonShare"/>
+        android:text="@string/buttonShare"
+        android:onClick="onclickShare"/>
 
 
 </LinearLayout>
