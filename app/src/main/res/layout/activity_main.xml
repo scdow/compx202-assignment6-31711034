@@ -35,7 +35,8 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:background="@drawable/button_style"
             android:textColor="@color/white"
-            android:text="@string/buttonStart"/>
+            android:text="@string/buttonStart"
+            android:onClick="onclickStart"/>
 
     </LinearLayout>
 

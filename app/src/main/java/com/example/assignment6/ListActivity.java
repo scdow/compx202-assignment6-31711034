@@ -1,6 +1,8 @@
 package com.example.assignment6;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
 import android.os.Bundle;
 
 public class ListActivity extends AppCompatActivity {
@@ -10,4 +12,5 @@ public class ListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list);
     }
+
 }
